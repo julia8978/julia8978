@@ -20,7 +20,7 @@
 | [✈️ Travel Moodboard](https://github.com/julia8978/travel-moodboard) | Проект, созданный для отработки навыков **Flexbox**| HTML, CSS, Flexbox |
 | [🍽️ Restaurant Website](https://github.com/julia8978/restaurant) | Сайт ресторана, сверстанный по **БЭМ** с использованием **SCSS** | HTML, SCSS, БЭМ |
 | [🍍 Exotic Fruits Store](https://github.com/julia8978/my-exotic-fruits-store) | Интернет-магазин экзотических фруктов с интерактивными элементами | HTML, CSS, JavaScript |
-| [🧠 Foreign Words Training](https://julia8978.github.io/foreign-words-training/) | Веб-приложение для изучения английских слов | HTML, CSS, JavaScript |
+| [🧠 Foreign Words Training](https://github.com/julia8978/foreign-words-training) | Веб-приложение для изучения английских слов | HTML, CSS, JavaScript |
 
 
 :hammer_and_wrench: Что я использую
