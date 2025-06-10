@@ -14,6 +14,7 @@
 - Использование навыков адаптивной верстки с использованием технологии **Flexbox** https://github.com/julia8978/travel-moodboard
 - Использование методологии **БЭМ** и применение **SCSS** https://github.com/julia8978/restaurant
 - Использование **JavaScript** для создания интерактивного одностраничного сайта: https://github.com/julia8978/my-exotic-fruits-store
+- Использование **JavaScript** для создания веб-приложения для изучения английских слов: https://julia8978.github.io/foreign-words-training/
 
 :hammer_and_wrench: Что я использую
 ---
